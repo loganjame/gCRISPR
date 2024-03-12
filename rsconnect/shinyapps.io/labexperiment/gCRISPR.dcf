@@ -1,0 +1,12 @@
+name: gCRISPR
+title: gCRISPR
+username: labexperiment
+account: labexperiment
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11472568
+bundleId: 8364490
+url: https://labexperiment.shinyapps.io/gCRISPR/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
