@@ -1,0 +1,31 @@
+If you use this resource, please cite:
+
+Y. Zhu, T. Groth, A. Kelkar, Y. Zhou, S. Neelamegham “A GlycoGene CRISPR-Cas9 lentiviral library to study lectin binding and human glycan biosynthesis pathways”, Glycobiology, 2020 (in press) [.pdf].
+
+ All plasmids will be available from Addgene. If you need reagents urgently, please write to neel@buffalo.edu.
+
+This app allows users to browse sgRNA and associated data collected using our Glycogene CRISPR sgRNA library. To use:
+
+·         * "Select Glycogene" using  drop-down menu
+
+·         * “Select transcript (Ensembl)” as many genes have more than one protein-coding transcript variant. Information about sgRNA targeting the selected genes, location on transcript and experimental data regarding sgRNA enrichment/depletion will appear in table format. Here, enrichment/depletion provides log2-fold change data for genes with Robust Rank Aggregation (RRA) FDR score <0.001 as described in ref. (1, 2).
+
+ 
+
+To determine glycogenes appearing in selected, common cancer cell lines:
+
+ * " ·         "Select tissue type"
+
+·         * "Select cell line"
+
+Data shown in rendered as heat maps using RSEM data collected from the Cancer Cell Line Encyclopedia (CCLE) (2).
+
+ 
+
+References:
+
+(1) Y. Zhu, T. Groth, A. Kelkar, Y. Zhou, S. Neelamegham “A GlycoGene CRISPR-Cas9 lentiviral library to study lectin binding and human glycan biosynthesis pathways”, Glycobiology, 2020 (in press) [.pdf].
+
+(2) Li, W., Xu, H., Xiao, T. et al. MAGeCK enables robust identification of essential genes from genome-scale CRISPR/Cas9 knockout screens. Genome Biol 15, 554 (2014). https://doi.org/10.1186/s13059-014-0554-4
+
+(3) Barretina, J., Caponigro, G., Stransky, N. et al. The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity. Nature 483, 603–607 (2012). https://doi.org/10.1038/nature11003
